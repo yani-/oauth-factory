@@ -1,0 +1,16 @@
+{
+	"name": "oauth-factory",
+	"version": "0.1.0",
+	  "author": {
+    "name": "Yani Iliev",
+    "email": "yani.iliev@cspath.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "main": "./lib/oauth-factory",
+  "scripts": {
+    "test": "vows --spec --isolate"
+  }
+}
